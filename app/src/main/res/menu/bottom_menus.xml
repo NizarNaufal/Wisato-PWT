@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/culinary"
+        android:icon="@drawable/kuliner" />
+
+    <item
+        android:id="@+id/alam_raya"
+        android:icon="@drawable/alam" />
+
+    <item
+        android:id="@+id/shopping"
+        android:icon="@drawable/shopping" />
+    <item
+        android:id="@+id/coffe"
+        android:icon="@drawable/coffe" />
+    <item
+        android:id="@+id/beafavorite"
+        android:icon="@drawable/beafavorite" />
+</menu>
