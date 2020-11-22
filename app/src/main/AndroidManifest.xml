@@ -19,8 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".view.intro.WelcomeSlider"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:name=".view.intro.WelcomeSlider"/>
         <activity
             android:name=".view.home.HomeActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
