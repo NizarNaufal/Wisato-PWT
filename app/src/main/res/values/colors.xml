@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name = "colorPrimary">#ffffff</color>
     <color name = "colorPrimaryDark">#5dc877</color>
+    <color name="colorTextAction">#37474F</color>
+    <color name="overlay_dark_10">#1A000000</color>
 
     <!-- //ROOT-->
     <color name="fiftypercenttranparent">#B96DC0FF</color>

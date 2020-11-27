@@ -31,8 +31,6 @@ class WelcomeSlider : AppCompatActivity() {
         slideList.add(1)
         slideList.add(2)
         slideList.add(3)
-        slideList.add(4)
-        slideList.add(5)
         text_view_next_done = findViewById<View>(R.id.text_view_next_done) as TextView
         linear_layout_next = findViewById<View>(R.id.linear_layout_next) as LinearLayout
         linear_layout_skip = findViewById<View>(R.id.linear_layout_skip) as LinearLayout
@@ -49,8 +47,9 @@ class WelcomeSlider : AppCompatActivity() {
             } else {
                 val intent = Intent(this@WelcomeSlider, HomeActivity::class.java)
                 startActivity(intent)
+
+                //optional
                 overridePendingTransition(R.anim.enter, R.anim.exit)
-                finish()
             }
         }
         linear_layout_next!!.setOnClickListener(View.OnClickListener {

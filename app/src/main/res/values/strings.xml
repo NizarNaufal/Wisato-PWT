@@ -3,4 +3,33 @@
     <string name="berbagi_wisato">Berbagai macam wisata yang menarik hadir disini</string>
     <string name="temukan_wisato">Temukan tempat wisata favoritmu</string>
     <string name="jelajah_wisato">Jelajahi Purwokerto lewat genggaman tangan</string>
+    <string name="message_double_klik_to_close">Klik sekali lagi untuk keluar</string>
+    <string name="home">home</string>
+    <string name="culinary">culinary</string>
+    <string name="alam">alam</string>
+    <string name="shopping">shopping</string>
+    <string name="coffe">coffe</string>
+    <string name="beafavorite">beafavorite</string>
+    <string name="wahana">Tempat wisata dengan suasana sejuk dikaki gunung slamet. berbagai wahana dapat anda coba disini.</string>
+    <string name="soto_sokaraja">Soto berkuah bening yang segar dengan perpaduan daging ayam atau sapi. Uniknya diberi taburan kacang yang menambah nikmat</string>
+    <string name="title_soto">Soto Sokaraja</string>
+    <string name="getuk_title">Getuk Goreng</string>
+    <string name="getuk_body">Jajanan tradisional dengan citarasa manis, terbuat dari olahan singkong yang dilembutkan dan dicampung dengan gula jawa lalu digoreng</string>
+    <string name="tempe_title">Tempe Mendoan</string>
+    <string name="tempe_body">Tempe yang dibalut tepung dan digoreng setengah matang, sensai gurih dan lembut berpadu dengan sambal kecap yang menambah kenikmatan</string>
+    <string name="batu_title">Baturaden</string>
+    <string name="limpakuwus_title">Limpakuwus</string>
+    <string name="hutan_body">Hutan Pinus dengan suasana sejuk dan rindang, cocok untuk bersantai bersama keluarga</string>
+    <string name="curug_title">Curug</string>
+    <string name="curug_body">Air terjun yang masih asri ditambah pemandangan yang indah. Berbagai spot foto bisa anda coba</string>
+    <string name="hangout_cafe">Cafe dengan suasane nyaman dan kekinian. Cocok untuk berkumpul dengan teman atau keluarga</string>
+    <string name="duta">Duta Mode</string>
+    <string name="duta_body">Tempat grosir baju dengan harga murah dan model yang trendi</string>
+    <string name="rita_body">Mall terbesar diPurwokerto yang menjadi salah satu tujuan belanja keluarga. Menyediakan berbagai macam kebutuhan keluarga</string>
+    <string name="rita_title">Rita Supermall</string>
+    <string name="wisata_belanja">Wisata Belanja</string>
+    <string name="todos">TODO</string>
+    <string name="text_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquet dolor sed dolor placerat placerat.
+        Interdum et malesuada fames acante ipsum primis in faucibus. Etiam porttitor orci ipsum, ac eleifend lacus condimentum eget
+    </string>
 </resources>
