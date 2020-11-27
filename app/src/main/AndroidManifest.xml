@@ -42,6 +42,14 @@
         <activity
             android:name=".view.account.ActivityTentang"
             android:theme="@style/AppTheme.NoActionBar"/>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" /> <!-- <meta-data -->
+        <!-- android:name="com.google.android.maps.v2.API_KEY" -->
+        <!-- android:value="AIzaSyBBSDFSFBK-7HC0WSD3234gWERWRW6A" /> -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyArgIUdxULDPJARUL_ll1JQpqWESc4BfO4" />
     </application>
 
 </manifest>
